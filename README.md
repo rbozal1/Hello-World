@@ -1,2 +1,2 @@
 # Hello-World
-This is my description
+A page created from a scratch using HTML and styled with CSS.
